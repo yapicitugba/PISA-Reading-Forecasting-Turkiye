@@ -1,0 +1,19 @@
+Data Availability Statement
+
+All datasets, processed data files, forecasting outputs, supplementary documentation, and Python scripts used in this study are available through the accompanying repository and supplementary materials.
+
+The repository contains:
+
+- Raw datasets
+- Processed datasets
+- Standardized datasets
+- Forecast outputs
+- Python source code
+- Supplementary documentation
+- Software requirements
+
+The original PISA datasets are publicly available from the OECD Programme for International Student Assessment (PISA) database.
+
+https://www.oecd.org/pisa/
+
+These materials are provided to support transparency, reproducibility, and future research.

@@ -1,0 +1,50 @@
+Repository Structure
+
+Dataset/
+---------
+Contains all datasets used in the study.
+
+Files:
+- 01_reading_scores_raw.xlsx
+- 02_independent_variables_raw.xlsx
+- 03_reading_scores_processed.xlsx
+- 04_independent_variables_processed.xlsx
+- 05_final_turkiye_model_dataset.xlsx
+- 06_standardized_model_dataset.xlsx
+- forecast_results_all_models.xlsx
+
+Code/
+------
+Contains Python scripts used for:
+
+- Dataset preparation
+- Missing data handling
+- ARIMAX variable weighting
+- Model training
+- Forecasting
+- Evaluation
+- Figure generation
+
+Files:
+- 00_create_datasets.py
+- 01_metrics_tables_and_figures.py
+- 02_forecast_tables_and_figures.py
+- 03_arimax_variable_weighting.py
+- 04_model_training_templates.py
+
+Documentation/
+---------------
+Contains supplementary materials supporting transparency and reproducibility.
+
+Files:
+- README.md
+- Supplementary_File_S1.pdf
+- Variable_Definitions_and_Transformations.pdf
+- Data_Availability_Statement.txt
+- LICENSE.txt
+- requirements.txt
+- Repository_Structure.txt
+
+Figures/
+----------
+Contains figures generated during analysis and forecasting.
